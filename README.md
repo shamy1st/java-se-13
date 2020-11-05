@@ -1,4 +1,4 @@
-# java-se-13
+# Java SE 13
 * Text Blocks – JEP 355
 * New Methods in String Class for Text Blocks
 * Switch Expressions Enhancements – JEP 354
