@@ -1,10 +1,6 @@
 # Java SE 13
-* Text Blocks – JEP 355
-* New Methods in String Class for Text Blocks
-* Switch Expressions Enhancements – JEP 354
-* Reimplement the Legacy Socket API – JEP 353
-* Dynamic CDS Archive – JEP 350
-* ZGC: Uncommit Unused Memory – JEP 351
-* FileSystems.newFileSystem() Method
-* Support for Unicode 12.1
-* DOM and SAX Factories with Namespace Support
+* JEP-350: Dynamic CDS Archives
+* JEP-351: ZGC: Uncommit Unused Memory
+* JEP-353: Reimplement the Legacy Socket API
+* JEP-354: Switch Expressions (Preview)
+* JEP-355: Text Blocks (Preview)
