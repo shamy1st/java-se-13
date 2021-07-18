@@ -1,10 +1,14 @@
 # Java SE 13
 
-* JEP-350: Dynamic CDS Archives
-* JEP-351: ZGC: Uncommit Unused Memory
-* JEP-353: Reimplement the Legacy Socket API
-* JEP-354: Switch Expressions (Preview)
-* JEP-355: Text Blocks (Preview)
+* [JEP](https://en.wikipedia.org/wiki/JDK_Enhancement_Proposal) : JDK Enhancement Proposal
+
+Feature                           | #
+----------------------------------|---------
+Dynamic CDS Archives              | JEP 350
+ZGC: Uncommit Unused Memory       | JEP 351
+Reimplement the Legacy Socket API | JEP 353
+Switch Expressions (Preview)      | JEP 354
+Text Blocks (Preview)             | JEP 355
 
 ## Ref
 * https://en.wikipedia.org/wiki/Java_version_history#Java_13
